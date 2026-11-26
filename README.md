@@ -10,7 +10,8 @@ The main aim was to turn raw data into meaningful insights through data cleaning
 
 ## Dashboard Preview
 
-<img width="1531" height="859" alt="Dashboard" src="https://github.com/user-attachments/assets/0891098c-328f-4fd4-91f2-28330df67199" />
+<img width="1527" height="857" alt="Dashboard" src="https://github.com/user-attachments/assets/0785f280-f564-42de-a071-7ad3c516be8e" />
+
 
 
 ## Key Performance Indicators
@@ -18,9 +19,9 @@ The main aim was to turn raw data into meaningful insights through data cleaning
 The dashboard includes the following KPIs:
 
 - **Total Cars:** Total number of car records analyzed.
-- **Average Selling Price:** Average price of the cars.
-- **Maximum Selling Price:** Highest recorded car price.
-- **Minimum Selling Price:** Lowest recorded car price.
+- **Average Selling Price (In Lakhs):** Average price of the cars.
+- **Maximum Selling Price (In Lakhs):** Highest recorded car price.
+- **Minimum Selling Price (In Lakhs):** Lowest recorded car price.
 - **Average Kilometres Driven:** Average distance covered by the cars.
 
 ## Analysis and Visualizations
